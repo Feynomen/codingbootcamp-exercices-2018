@@ -1,0 +1,4 @@
+<strong>
+	<em>Hello world</em>
+	Hello, there
+</strong>
