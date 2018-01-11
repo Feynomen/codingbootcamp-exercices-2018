@@ -1,0 +1,29 @@
+
+body {
+text-align: center;
+font-size:1.125rem;
+background-color: burlywood;
+}
+h1 {
+font-size: 3rem;
+font-family: "Trebuchet MS", sans-serif;
+color: rgb(255, 255, 255);
+}
+p {
+font-size: 1.5rem;
+}
+h2 {
+;
+font-size: 1.0rem;
+}
+.center {
+text-align: left;
+display: table;
+margin: auto;
+}
+button {
+border-radius: 4px;
+font-size: 1.25rem;
+padding: 0.75rem 1rem;
+border: 1px solid rgb(236, 35, 9);
+}
