@@ -1,0 +1,65 @@
+µ{
+    box-sizing: border-box
+}
+
+html {
+    font-family: sans-serif
+}
+
+header {
+    display: flex;
+    align-content: space-between;
+    background-color: dimgray
+}
+/* Navigation*/
+nav a {
+    display: block;
+    padding: 0.25rem 1rem;
+    color: white;
+    text-decoration: none;
+    white-space: nowrap;
+    width: 100%;
+    text-align: center;
+    white-space: nowrap;
+    text-transform: uppercase;
+}
+
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    margin: 0;
+}
+
+section.welcome {
+    background-color: rgb(189, 188, 188);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgb(189, 188, 188)('../img/welcome.jpg') center center/cover no repeqt scroll;
+}
+
+section.welcome h1{
+    font-size: 4em;
+    font-weight: normal;
+    margin: 0;
+}
+
+section.welcome .subtitle{
+    font-size: 2em;
+    color: #999999
+}
+
+section.plot {
+    display: flex;
+    font-size: 10px;
+
+}
+
+section.plot .text {
+    display: flex;
+    align-content: center;
+}
