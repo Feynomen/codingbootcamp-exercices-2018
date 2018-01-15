@@ -1,0 +1,10 @@
+html {
+    font-family: 'Arial';
+}
+
+ul{
+    font-weight: bold; /*bold can also be changed by 100*/
+}
+p.subtext {
+    color: #cccccc;
+}
